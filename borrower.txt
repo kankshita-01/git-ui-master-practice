@@ -1,4 +1,4 @@
-name: kankshita
+name: kankshi
 book: the alchemist
 recomended book: atomic habits
-book: the stangers
+status: book returned
